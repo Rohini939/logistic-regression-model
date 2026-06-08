@@ -9,5 +9,6 @@ This project implements a linear regression model to predict Survived.
 
 ## How to Use
 Clone the repository, open the notebook, and run the cells.
+Testing merge request functionality on 08-Jun-2026
 
 
